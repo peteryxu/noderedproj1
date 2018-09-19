@@ -1,0 +1,12 @@
+{
+    "name": "proj4nodered",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "myflow.json",
+            "credentialsFile": "myflow_cred.json"
+        }
+    }
+}
